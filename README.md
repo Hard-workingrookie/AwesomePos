@@ -1,6 +1,6 @@
 # pos
 
-<img src="./static/pos.png" width="100%">
+<img src="https://s1.ax1x.com/2020/09/03/wiuMPe.png" width="100%">
 
 > A Vue.js project
 
