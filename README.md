@@ -1,5 +1,7 @@
 # pos
 
+<img src="./static/pos.png" width="100%">
+
 > A Vue.js project
 
 ## Build Setup
